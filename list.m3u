@@ -1,6 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pro7" tvg-id="Pro7" group-title="Vollprogramm" tvg-logo="",Pro 7
 https://s11.hopslan.com/pro7y/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" tvg-id="Comedy Central" group-title="Vollprogramm" tvg-logo="",Comedy Central
+https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="DMAX tvg-id="DMAX" group-title="Vollprogramm" tvg-logo="",DMAX
+https://s11.hopslan.com/dmaxy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Disney Channel " tvg-id="Disney Channel " group-title="Vollprogramm" tvg-logo="",Disney Channel 
+https://s5.hopslan.com/disneyy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Tele 5" tvg-id="Tele 5" group-title="Vollprogramm" tvg-logo="",Tele 5
+https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kabel 1" tvg-id="Kabel 1" group-title="Vollprogramm" tvg-logo="",Kabel 1
+https://s11.hopslan.com/kabel1y/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kabel 1 Doku" tvg-id="Kabel 1 Doku" group-title="Vollprogramm" tvg-logo="",Kabel 1 Doku
+https://s3.hopslan.com/dokuu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="VOX" tvg-id="VOX" group-title="Vollprogramm" tvg-logo="",VOX
+https://s11.hopslan.com/voxy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="RTL" tvg-id="RTL" group-title="Vollprogramm" tvg-logo="",RTL
+https://s11.hopslan.com/rtly/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="RTL2" tvg-id="RTL2" group-title="Vollprogramm" tvg-logo="",PRTL2
+https://s4.hopslan.com/rtl22/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="RTL Nitro " tvg-id="RTL Nitro " group-title="Vollprogramm" tvg-logo="",RTL Nitro 
+https://s2.hopslan.com/nitro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ProSieben Maxx" tvg-id="ProSieben Maxx" group-title="Vollprogramm" tvg-logo="",ProSieben Maxx
+https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
