@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pro7" tvg-id="Pro7" group-title="Vollprogramm" tvg-logo="",Pro 7
-https://s11.hopslan.com/pro7y/tracks-v1a1/mono.m3u8
+https://s11.hopslan.com/pro7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id="Comedy Central" group-title="Vollprogramm" tvg-logo="",Comedy Central
 https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="DMAX tvg-id="DMAX" group-title="Vollprogramm" tvg-logo="",DMAX
